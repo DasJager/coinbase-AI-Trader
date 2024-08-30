@@ -24,3 +24,22 @@ This Python project implements an automated trading bot that interacts with a cr
 - **Python 3.x**: Ensure you have Python 3.x installed on your system.
 - **Pip**: Python's package installer, used to install required dependencies.
 - **OpenAI API Key**: Required for interacting with the LLM (configured locally in this project).
+
+
+
+
+If you like my work and would like to buy me a coffee or beer donations below have a blessed day! 
+
+** my wallet address **
+
+coinbase wallet address
+
+mrnobody314.cb.id
+
+BTC: bc1q7rnlw5wuakqzrm0nr4mnw6xu6xdfaupysf98j9
+
+eth: 0x3535E89F33DA8892857eCB925434444B24141F2a
+
+solana: 6d7Npf19vUrDWaMHWeHVEiXBcJXLHqgrUavtwEw4m3qt
+
+Doge: D5H4ADNWcn1HaPpR5sizZuBX72HpMjvLeC
